@@ -6,6 +6,8 @@ This project is an interactive visual novel game built using the Ren'Py engine. 
 
 <img src="renpygame.png" alt="background" width="500" height="600">
 
+Try out the game web version of the game: https://d-ashik.itch.io/renpy-number-birthday-guessing-game
+
 ## Table of Contents
 - [Features](#features)
 - [Game Description](#game-description)
